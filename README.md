@@ -9,11 +9,11 @@ I am highly motivated by system efficiency and am actively preparing for open-so
 ### 🚀 What I'm Currently Working On
 *   **Algorithmic Mastery:** Deep diving into core Data Structures and Algorithms (DSA).
 *   **Machine Learning:** Exploring ML algorithms, model training, and data processing.
-*   **Full-Stack Development:** Learning and building with the modern MERN stack (MongoDB, Express.js, React, Node.js).
+*   **Full-Stack Development:** Learning and building with PERN Stack + TypeScript | Tailwind
 
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** C++, Python, C
-*   **Web Technologies:** MERN Stack (Currently Learning)
+*   **Web Technologies:** PERN Stack + TypeScript | Tailwind (Currently Learning)
 *   **Core Competencies:** Data Structures & Algorithms, Object-Oriented Programming
 
 ### 🏆 Milestones & Achievements
@@ -23,7 +23,8 @@ I am highly motivated by system efficiency and am actively preparing for open-so
 ### 📫 Let's Connect
 *   **LinkedIn:** [https://www.linkedin.com/in/rituraj-sharma-4b514a384/?skipRedirect=true]
 *   **Codeforces:** [https://codeforces.com/profile/riturajwizard]
-*   **LeetCode/Codeforces:** [https://leetcode.com/u/7UuqKvsISl/]
+*   **LeetCode:** [https://leetcode.com/u/7UuqKvsISl/]
+*   **Instagram:** [https://www.instagram.com/rituraj_sharma_07/]
 
 ---
 *Open to collaboration on web applications, and algorithmic problem-solving.*
