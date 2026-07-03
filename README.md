@@ -8,7 +8,6 @@ I am highly motivated by system efficiency and am actively preparing for open-so
 
 ### 🚀 What I'm Currently Working On
 *   **Algorithmic Mastery:** Deep diving into core Data Structures and Algorithms (DSA).
-*   **Machine Learning:** Exploring ML algorithms, model training, and data processing.
 *   **Full-Stack Development:** Learning and building with PERN Stack + TypeScript | Tailwind
 
 ### 🛠️ Tech Stack & Tools
