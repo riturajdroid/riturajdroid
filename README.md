@@ -12,12 +12,11 @@ I am highly motivated by system efficiency and am actively preparing for open-so
 
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** C++, Python, C
-*   **Web Technologies:** PERN Stack + TypeScript | Tailwind (Currently Learning)
+*   **Web Technologies:** PERN Stack + TypeScript | Tailwind
 *   **Core Competencies:** Data Structures & Algorithms, Object-Oriented Programming
 
 ### 🏆 Milestones & Achievements
 *   Placed **15th out of 60 teams** in GFG hackathon.
-*   Consistently progressing through rigorous algorithmic problem sets.
 
 ### 📫 Let's Connect
 *   **LinkedIn:** [https://www.linkedin.com/in/rituraj-sharma-4b514a384/?skipRedirect=true]
