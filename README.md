@@ -12,7 +12,7 @@ I am highly motivated by system efficiency and am actively preparing for open-so
 
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** C++, Python, C
-*   **Web Technologies:** PERN Stack + TypeScript | Tailwind
+*   **Web Technologies:** Next.js-Full-Stack
 *   **Core Competencies:** Data Structures & Algorithms, Object-Oriented Programming
 
 ### 🏆 Milestones & Achievements
